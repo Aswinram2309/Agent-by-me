@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "agent_type": "Gemini Web Search Agent",
+    "model": "gemini-3.5-flash-lite",
+    "results": {
+        "user_content": "java",
+        "model_used": "gemini-3.5-flash-lite",
+        "tool_used": false,
+        "searched_queries": [],
+        "agent_response": "It looks like you just typed **\"Java\"**, which can refer to a few different things depending on the context! \n\nCould you please clarify what you are looking for? Here are the most common things people mean by \"Java\":\n\n1. **Java (Programming Language):** A popular, object-oriented programming language used for building enterprise software, Android apps, web applications, and large-scale backend systems.\n2. **Java (Coffee):** A classic term for coffee, originally named after the Indonesian island of Java.\n3. **Java (Island):** A major island in Indonesia containing the capital city, Jakarta.\n\nLet me know if you need help with **Java programming** (like syntax, debugging, or concepts), learning resources, or something else entirely!"
+    }
+}
